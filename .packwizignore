@@ -1,0 +1,9 @@
+.git
+.github
+.gitignore
+.packwizignore
+packwiz.exe
+packwiz.zip
+README.md
+*.mrpack
+*.zip

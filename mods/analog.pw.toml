@@ -1,0 +1,13 @@
+name = "Analog"
+filename = "analog-1.2.2+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/OpqpD8K2/versions/GjJv8AUc/analog-1.2.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "b925df2a210e99edb6f4c29f5fa844a7c9a2ed1f3498f0b54762e23a1b28086f04ee56dfe8fadf250c9e232d00e426f3496b7448ef4cc96cf0b64db83322c6ef"
+
+[update]
+[update.modrinth]
+mod-id = "OpqpD8K2"
+version = "GjJv8AUc"
