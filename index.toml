@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "f51070c9239ff35c1d688959f54d5707270b0281e9f959b921519baaffbf769c"
+hash = "467cff2b82577836e3fde8365c2d354e2ecaee348d3e86dd1b8ce87be543befc"
 metafile = true
 
 [[files]]
