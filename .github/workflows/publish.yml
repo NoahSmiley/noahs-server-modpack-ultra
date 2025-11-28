@@ -23,14 +23,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+
       - name: Install packwiz
         run: |
-          curl -L -o packwiz https://github.com/packwiz/packwiz/releases/latest/download/packwiz_linux_amd64
-          chmod +x packwiz
-          ./packwiz --version
+          go install github.com/packwiz/packwiz@latest
+          packwiz --version
 
       - name: Refresh packwiz index
-        run: ./packwiz refresh --yes
+        run: packwiz refresh --yes
 
       - name: Get version from tag or input
         id: version
@@ -53,11 +57,11 @@ jobs:
       - name: Update pack.toml version
         run: |
           sed -i 's/^version = .*/version = "${{ steps.version.outputs.version }}"/' pack.toml
-          ./packwiz refresh --yes
+          packwiz refresh --yes
 
       - name: Export to Modrinth (.mrpack) format
         run: |
-          ./packwiz modrinth export -o Noahs-Server-Ultra.mrpack --yes
+          packwiz modrinth export -o Noahs-Server-Ultra.mrpack --yes
 
       - name: Prepare deployment directory
         run: |
