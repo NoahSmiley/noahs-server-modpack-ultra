@@ -31,7 +31,7 @@ jobs:
       - name: Install packwiz
         run: |
           go install github.com/packwiz/packwiz@latest
-          packwiz --version
+          packwiz help
 
       - name: Refresh packwiz index
         run: packwiz refresh --yes
