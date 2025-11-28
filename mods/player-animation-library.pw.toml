@@ -1,0 +1,13 @@
+name = "Player Animation Library"
+filename = "PlayerAnimationLibFabric-1.0.14+mc.1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ha1mEyJS/versions/RcvEYPbP/PlayerAnimationLibFabric-1.0.14%2Bmc.1.21.1.jar"
+hash-format = "sha512"
+hash = "29a2079762425c36999077a056e3e5bd66039f0d51ab43d01589d4aa99bbb42ad99ef3cec63e9b7796d81a4ee5c691b91b6d08424ecc416dd4802299df26d41d"
+
+[update]
+[update.modrinth]
+mod-id = "ha1mEyJS"
+version = "RcvEYPbP"
