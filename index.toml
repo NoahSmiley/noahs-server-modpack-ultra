@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ProxyPortal-1.0.0.jar"
+hash = "f86ef81a89dd2b8f1b48d8173ccebabbcf829227e0a03cbaa899250984ff5400"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "97befad2275e44c557794fbd321b154510279ce7906426607288062e096df86d"
 metafile = true
@@ -283,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
+metafile = true
+
+[[files]]
+file = "mods/proxyportal.pw.toml"
+hash = "00fc25e554ee9399658ef7633bc6e731508a285774a6188e6772241867b69bfd"
 metafile = true
 
 [[files]]
