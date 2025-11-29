@@ -286,6 +286,11 @@ hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
 metafile = true
 
 [[files]]
+file = "mods/proxyportal.pw.toml"
+hash = "911f15a10bddcae1baf2be7b7b7d829ce5634f85bbcb204298a925958fc92463"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "44a6662d6ac604b2173a8bc426a10c0d621c8ba99d37d1b72525c140c42cb358"
 metafile = true
