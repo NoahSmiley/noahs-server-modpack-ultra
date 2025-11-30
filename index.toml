@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
+hash = "0e28ba15ba1769864a4af0b2f7ffaa3c90017b49633bef2a843b14a46e9a791d"
 metafile = true
 
 [[files]]
@@ -380,16 +380,6 @@ hash = "ae55eda5b79aeb01fd4068cc34051019e34779c2d4748aba86e5dba522b7b61d"
 metafile = true
 
 [[files]]
-file = "mods/pneumono_core.pw.toml"
-hash = "9c7978a3af54d109b1ae4a035672024d178641df8c553126e405f381d814041a"
-metafile = true
-
-[[files]]
-file = "mods/pneumono_gravestones.pw.toml"
-hash = "3ca867b96ce71321b882606ed97d3c4af8bba5b4886dd71589f29c6e022b152c"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8a64fdd5384cd26c91475a423f3bec24dd4d98796df7683a5070ef105d421ba4"
 metafile = true
@@ -517,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "8ffa4ba1466882a5abef6c6d220824f1ce4e228771f854f19e4fceb80598723c"
+metafile = true
+
+[[files]]
+file = "mods/youre-in-grave-danger.pw.toml"
+hash = "197ce46f9b31c19371f696c37d5d939306157ac4a715fdcd674edbc14207f1db"
 metafile = true
 
 [[files]]
