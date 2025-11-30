@@ -510,6 +510,11 @@ hash = "8ffa4ba1466882a5abef6c6d220824f1ce4e228771f854f19e4fceb80598723c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/clear-glass.pw.toml"
+hash = "696097618b78aacf4abd48dd7c027108aab9391ee5d7b49d9f6297fca5c5440b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/entity-texture-features-translation.pw.toml"
 hash = "d3383057e65db3ca479dbdc4a74ab3583760ae79e61b05edbb620ff9e053eec5"
 metafile = true
