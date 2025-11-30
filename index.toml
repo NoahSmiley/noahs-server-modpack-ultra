@@ -235,6 +235,11 @@ hash = "078860bac1f307372efd36c5e861dd4fac7a387f138f09989f8fff0ad12b7904"
 metafile = true
 
 [[files]]
+file = "mods/hold-my-items.pw.toml"
+hash = "d82a9b3f9ba777fcfa871322fcc168745c28f9a8ea18032e4ed6f0a3d3d9c32a"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "907ed71a8d572d5bc2a8f956b0b0d0fad37e1d5bdd48464041a76ef8fca79cb7"
 metafile = true
@@ -507,6 +512,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/entity-texture-features-translation.pw.toml"
 hash = "d3383057e65db3ca479dbdc4a74ab3583760ae79e61b05edbb620ff9e053eec5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "c35f41d09504478ac9d85d9a939460511c50676f5ea3a19537a2ac204281506e"
 metafile = true
 
 [[files]]
