@@ -45,6 +45,11 @@ hash = "6ed307a73da7ca52b03e143a87780732dbbc70d9417b4bcc04937f561564a807"
 metafile = true
 
 [[files]]
+file = "mods/biome_particle_weather.pw.toml"
+hash = "5248492ccdd394f46b34153b4b75ce25586d6242da13dc6935403552e97605ab"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "5f32244bbf7f4864d6570bde7f7223655f52d5df455e7b9fe650b10dee42f830"
 metafile = true
@@ -95,6 +100,11 @@ hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
 metafile = true
 
 [[files]]
+file = "mods/concentration.pw.toml"
+hash = "75226fe31d286f478959036e3431292edacf7be2c51012a9dea5d74ff24ebec3"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
 hash = "1d2d4cdfb2ff8f6b9894d63bdced20e1ad3673a753cad8bf5fe0c60d6acd5a27"
 metafile = true
@@ -112,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/crawl.pw.toml"
 hash = "895602d01d010ba10c9662f61d382393cdc270ba02d7cd8fb0d95f5fc7768972"
+metafile = true
+
+[[files]]
+file = "mods/crumbling-hearts.pw.toml"
+hash = "1bffdfa1801c5a011971efb599dc8c61378cf9a45f69d6440224b4d19e2d9b30"
 metafile = true
 
 [[files]]
@@ -152,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "4898b9beb1b7cf7df38346b02d9756c10e09408b6344e3295fe7177b25549f14"
+metafile = true
+
+[[files]]
+file = "mods/entity-pin-cushions.pw.toml"
+hash = "98fc45453fdac86d361d4d16736983534d93f1c4006bcece0502070d259126d4"
 metafile = true
 
 [[files]]
@@ -320,6 +340,11 @@ hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
+file = "mods/particle-interactions.pw.toml"
+hash = "6a085c05e1c4f0712bf68d60cd3ed4d658e87e6fd186caaf380015ece32eaf57"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "6e454809d22c0967ace0a59408260da91ce80757d00eaa4720f0496fcd1fddd1"
 metafile = true
@@ -330,6 +355,11 @@ hash = "9bceeadea46405d869a5b781efb109ac9fd7b4455c9c536092ccc93a135bad96"
 metafile = true
 
 [[files]]
+file = "mods/perception.pw.toml"
+hash = "b2070f49d5207fe0ecd80bd78f4c638661f63b7f495560f2919f5a5308135b9c"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
@@ -337,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/player-animation-library.pw.toml"
 hash = "a8dbb5dfe3d0be23d628ae89c805c50de83db89e382c573e37695ec20f246de7"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "ae55eda5b79aeb01fd4068cc34051019e34779c2d4748aba86e5dba522b7b61d"
 metafile = true
 
 [[files]]
@@ -370,8 +405,18 @@ hash = "c2e9b7324f1bdc58a32843a32d6ccc8b000119335a6aabf4c59dab0d3ee1c397"
 metafile = true
 
 [[files]]
+file = "mods/reflex-antilag.pw.toml"
+hash = "297023a515ae4b77ce7835df3e30c040a2c24bcb8eb7af2114d28a7d249012a6"
+metafile = true
+
+[[files]]
 file = "mods/resquake.pw.toml"
 hash = "e60b826b911f5c486e18ad9b76ff1a585269692eda5b790167b678d4f19a3f00"
+metafile = true
+
+[[files]]
+file = "mods/serious-player-animations.pw.toml"
+hash = "9a1a1c0537a49c74bdb401b214ecd4ef1f8956b8317b6f13b04abdf940b3a0d5"
 metafile = true
 
 [[files]]
@@ -387,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "272b27d64cd27b909567437683287909b35de9f78db27214efb1d5e4334f9f82"
+metafile = true
+
+[[files]]
+file = "mods/sitting+.pw.toml"
+hash = "6849cbe791205308a6cb7e6d06172dca663446f7c6573ee2ce10f537aef9f16a"
 metafile = true
 
 [[files]]
@@ -483,3 +533,7 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
 metafile = true
+
+[[files]]
+file = "validate.ps1"
+hash = "01d63d001e9768f0e0451528adc4bb46a6607b95ea0b3ab1c3b2860c755ff99e"

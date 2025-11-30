@@ -1,0 +1,13 @@
+name = "Serious Player Animations"
+filename = "seriousplayeranimations-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fq4tBIiz/versions/trE4Yoi4/seriousplayeranimations-1.2.0.jar"
+hash-format = "sha512"
+hash = "d01038d43f44e983299f1275bc086bf89ebdf8cd2f6ee5e0e3112aede0f678e67598898b563b532c1c5e627f729f312e0317f4cc45855ea837e05e700b683a93"
+
+[update]
+[update.modrinth]
+mod-id = "Fq4tBIiz"
+version = "trE4Yoi4"
