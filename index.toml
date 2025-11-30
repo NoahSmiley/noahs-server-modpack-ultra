@@ -380,6 +380,16 @@ hash = "ae55eda5b79aeb01fd4068cc34051019e34779c2d4748aba86e5dba522b7b61d"
 metafile = true
 
 [[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "9c7978a3af54d109b1ae4a035672024d178641df8c553126e405f381d814041a"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "3ca867b96ce71321b882606ed97d3c4af8bba5b4886dd71589f29c6e022b152c"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8a64fdd5384cd26c91475a423f3bec24dd4d98796df7683a5070ef105d421ba4"
 metafile = true
@@ -527,6 +537,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-moves.pw.toml"
+hash = "d22bff8a4ecb807d779784716ad315466778d0457b0d734eeeb6ff7f5a296a3f"
 metafile = true
 
 [[files]]
