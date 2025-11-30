@@ -533,7 +533,3 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
 metafile = true
-
-[[files]]
-file = "validate.ps1"
-hash = "577397510713742699e06c43ebbbb4f8c92672362fb598e317263d408e86eef1"
