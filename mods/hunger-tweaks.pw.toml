@@ -1,0 +1,13 @@
+name = "Hunger Tweaks (RPG Tweaks)"
+filename = "hunger_tweaks-fabric-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/2ygSk5sW/versions/bDE5NWEP/hunger_tweaks-fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "fe7794757303823554ef045afe9ffed1d1bc9b5212e650d4e2e266813d313c36d3f8fb5fa0def57c308220591b9caf4a24fdcd91e49496cfec8cce543ad688f7"
+
+[update]
+[update.modrinth]
+mod-id = "2ygSk5sW"
+version = "bDE5NWEP"
