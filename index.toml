@@ -305,6 +305,11 @@ hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
 metafile = true
 
 [[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "25d50d7ca185264b5b41d9b003c6cf6154488cf24fde554eebe4c8a4088df78b"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "230b1f5cd118accacf41f268e122bd420420d9e5248d43513090804739a832f3"
 metafile = true
@@ -457,6 +462,16 @@ metafile = true
 [[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "ea42c8cd33e92216bac99e999fd9d2e1e037dd1a695ed5e7e05c640fd3ee35d8"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "97df1677b1871339d75f5244c74446990a6109186f3b0478961181352b23ad8d"
 metafile = true
 
 [[files]]
