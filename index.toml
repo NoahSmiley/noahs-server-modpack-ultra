@@ -155,9 +155,8 @@ hash = "cc46728d8879ff5ab1e00f17bb63bacaf30ea2699bb692c0ca5e084572ae3e8e"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
+file = "mods/effective.pw.toml.disabled"
 hash = "2a421f249e7022255938fafdebf4a9d6490d62aecbabd48a9e9a3e52aacd4d0b"
-metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
