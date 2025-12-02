@@ -155,8 +155,9 @@ hash = "cc46728d8879ff5ab1e00f17bb63bacaf30ea2699bb692c0ca5e084572ae3e8e"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml.disabled"
+file = "mods/effective.pw.toml"
 hash = "2a421f249e7022255938fafdebf4a9d6490d62aecbabd48a9e9a3e52aacd4d0b"
+metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
@@ -190,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0e28ba15ba1769864a4af0b2f7ffaa3c90017b49633bef2a843b14a46e9a791d"
+hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
 metafile = true
 
 [[files]]
@@ -476,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7d47e3d8bee4711ab37491e5e91bad186b6606ba560ab8a1dec753c157cf1151"
+metafile = true
+
+[[files]]
+file = "mods/veil.pw.toml"
+hash = "5b954c1b21fa4073ce3e6ce2e852ecad4f906f46048c661651d946927eb99984"
 metafile = true
 
 [[files]]
