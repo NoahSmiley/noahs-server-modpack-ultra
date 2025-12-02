@@ -235,6 +235,11 @@ hash = "d82a9b3f9ba777fcfa871322fcc168745c28f9a8ea18032e4ed6f0a3d3d9c32a"
 metafile = true
 
 [[files]]
+file = "mods/hunger-tweaks.pw.toml"
+hash = "429c4e3794b0c374b40a238586626bbe068fed5d70d1b7a235f8f5988c9c0a1b"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "907ed71a8d572d5bc2a8f956b0b0d0fad37e1d5bdd48464041a76ef8fca79cb7"
 metafile = true
