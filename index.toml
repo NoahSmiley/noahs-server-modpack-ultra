@@ -260,6 +260,11 @@ hash = "67073e76c80987fe6193fdb50f4db0991467ba3fa265829a132ca878e5261c0a"
 metafile = true
 
 [[files]]
+file = "mods/improperui.pw.toml"
+hash = "c32c0ba13682b8cb45f1d783e4f7bba9a1b47af65fc1a6f63b04c2f0445d4b78"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
 metafile = true
