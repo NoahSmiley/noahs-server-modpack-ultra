@@ -55,6 +55,11 @@ hash = "5f32244bbf7f4864d6570bde7f7223655f52d5df455e7b9fe650b10dee42f830"
 metafile = true
 
 [[files]]
+file = "mods/camera-utils.pw.toml"
+hash = "fa22fce9dfc61e51f245dfa492246813220a151ba621eca245916553aaf0cb5e"
+metafile = true
+
+[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "2617864bc12ee6926e1b9dbb455381fc348b6f62015eaaff5b5cc4b3523e9a9c"
 metafile = true
@@ -245,6 +250,11 @@ hash = "907ed71a8d572d5bc2a8f956b0b0d0fad37e1d5bdd48464041a76ef8fca79cb7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-hotbar.pw.toml"
+hash = "dee4bcf007803851b681b84daffe287aa3299a51b80ef5662be7407f65488b41"
+metafile = true
+
+[[files]]
 file = "mods/immersive-lanterns.pw.toml"
 hash = "67073e76c80987fe6193fdb50f4db0991467ba3fa265829a132ca878e5261c0a"
 metafile = true
@@ -257,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "49e1724a64b87c64bdd52002882cc9376057dca5e5e92e72737de3707bbcfe16"
 metafile = true
 
 [[files]]
@@ -405,6 +420,11 @@ hash = "44a6662d6ac604b2173a8bc426a10c0d621c8ba99d37d1b72525c140c42cb358"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "56b1f7ef28a1bcbcfa2968409cf7334adaef821cafb2d1ca28bad7bb76df6984"
+metafile = true
+
+[[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "1169c6f5f7cd13d01081f996cda2a029809877aff999e9bf4e6b0d44b027aa58"
 metafile = true
@@ -417,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/reflex-antilag.pw.toml"
 hash = "297023a515ae4b77ce7835df3e30c040a2c24bcb8eb7af2114d28a7d249012a6"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "0749ba708f88cfac9be94c9d979b2e504dbe66517659beb0935b4ceda52a17df"
 metafile = true
 
 [[files]]
@@ -450,6 +475,11 @@ hash = "6849cbe791205308a6cb7e6d06172dca663446f7c6573ee2ce10f537aef9f16a"
 metafile = true
 
 [[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "69d9366753ade6e5dbcbbac31372fae83d6b37b81a63a797a217aa69e97f2992"
+metafile = true
+
+[[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "6475037d680289b4cf8bca4e375b3ecb9c9d6d90dd785b9bd085a42b9c84b795"
 metafile = true
@@ -462,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "4ea85fa7d750bf5a167fe9652f2ac896d12ab068dacb8b04539e316ba5b74042"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "cf2f667583b0707ec1d7d211b1eaae5b38cd5e138896d351d66f190307b1b1e9"
 metafile = true
 
 [[files]]
@@ -482,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "6c6b69bf2bca3b3a8420688391124aa90d24e235b98ee01097f03f0fbf22d9cb"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "d7655654c6b8fc819f2a01a4b50bb8b133efb1b5da88394b4af5581599a34a5e"
 metafile = true
 
 [[files]]
