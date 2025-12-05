@@ -65,6 +65,11 @@ hash = "c899acdc322ab52800a6e305a16427297f411c1c39d97983be96e8b6a34e157c"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "2dda36229536c02155b8bdc705598904b74b3e958e56bf7946785f59c3427a9b"
 metafile = true
@@ -295,6 +300,11 @@ hash = "8e3e81260ef8959aa97a1bb32f2cf83001782506da2e27f40e56124f6a5c9796"
 metafile = true
 
 [[files]]
+file = "mods/mine-glass-without-silk-touch.pw.toml"
+hash = "5c17c2af310af40d2ad97a131d3496d7af8c4cddb986b90caa39067c6a6d9b9b"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "d12b136e07f6f83a1e199aabe430426d19702c9f69e55731092b5d5c2f3fb69f"
 metafile = true
@@ -337,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "f53b91397b8a969e843af8772db448ab1c9bc556233a3b26266c52cfa77950fe"
+metafile = true
+
+[[files]]
+file = "mods/niftycarts.pw.toml"
+hash = "421431bdba887c114dffd4be28fcdc0e6dddbfeadc518f5d02d55b8f3d575ece"
 metafile = true
 
 [[files]]
