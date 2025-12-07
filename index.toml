@@ -10,11 +10,6 @@ hash = "97befad2275e44c557794fbd321b154510279ce7906426607288062e096df86d"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "d4838d91cd7747816ade0f2f4a46c701a53c3ef84cb278ec24e8f6fb828a85c3"
-metafile = true
-
-[[files]]
 file = "mods/analog.pw.toml"
 hash = "a7f0850f3ae1c6e6f75126f67438af21d853a86b8b8d6c146cb61d47c6e824cf"
 metafile = true
