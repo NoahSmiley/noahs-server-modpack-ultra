@@ -130,6 +130,11 @@ hash = "1bffdfa1801c5a011971efb599dc8c61378cf9a45f69d6440224b4d19e2d9b30"
 metafile = true
 
 [[files]]
+file = "mods/customnpcs-unofficial.pw.toml"
+hash = "816c95842016a6b1e1b9c8bbc2cf79e1be907443762da81951ad8b81bd8fb40d"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "23b3bf6d1931acd2aa6daa5409b274b0d4ec9ec659c01d11454093d8fcd1e342"
 metafile = true
