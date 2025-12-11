@@ -25,28 +25,13 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
-file = "mods/attributefix.pw.toml"
-hash = "a773df76089453f964bf196aae2d9e963d28fa18dde4e1a6ce9260206e6f033a"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "be28a9ff89c60140b2983eb91089e77bec90bc5a0379c25472be01cb14dcbb97"
 metafile = true
 
 [[files]]
-file = "mods/biome-replacer.pw.toml"
-hash = "6ed307a73da7ca52b03e143a87780732dbbc70d9417b4bcc04937f561564a807"
-metafile = true
-
-[[files]]
 file = "mods/biome_particle_weather.pw.toml"
 hash = "5248492ccdd394f46b34153b4b75ce25586d6242da13dc6935403552e97605ab"
-metafile = true
-
-[[files]]
-file = "mods/bookshelf-lib.pw.toml"
-hash = "5f32244bbf7f4864d6570bde7f7223655f52d5df455e7b9fe650b10dee42f830"
 metafile = true
 
 [[files]]
@@ -130,11 +115,6 @@ hash = "1bffdfa1801c5a011971efb599dc8c61378cf9a45f69d6440224b4d19e2d9b30"
 metafile = true
 
 [[files]]
-file = "mods/customnpcs-unofficial.pw.toml"
-hash = "816c95842016a6b1e1b9c8bbc2cf79e1be907443762da81951ad8b81bd8fb40d"
-metafile = true
-
-[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "23b3bf6d1931acd2aa6daa5409b274b0d4ec9ec659c01d11454093d8fcd1e342"
 metafile = true
@@ -215,21 +195,6 @@ hash = "973cd98470fa91a57786bcf243f45f0daba9a035bba484f41dc1ee13636e9db2"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
-metafile = true
-
-[[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "d8cdb69801ff0ffdf8c9cf6834dd592ca79ce1da139d303f8d17a62afec1abe2"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "43419651a1c8ee71281ce6d607fba199f0e87ba41f9725caa65b4dab2e589d49"
-metafile = true
-
-[[files]]
 file = "mods/harvest.pw.toml"
 hash = "078860bac1f307372efd36c5e861dd4fac7a387f138f09989f8fff0ad12b7904"
 metafile = true
@@ -292,16 +257,6 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "33b394f6cf1849a124b2021a56b29455e2fcb2c5a3a56901fe8ad0dbf3d4c6ee"
-metafile = true
-
-[[files]]
-file = "mods/mariums-soulslike-weaponry.pw.toml"
-hash = "8e3e81260ef8959aa97a1bb32f2cf83001782506da2e27f40e56124f6a5c9796"
-metafile = true
-
-[[files]]
-file = "mods/mine-glass-without-silk-touch.pw.toml"
-hash = "5c17c2af310af40d2ad97a131d3496d7af8c4cddb986b90caa39067c6a6d9b9b"
 metafile = true
 
 [[files]]
@@ -420,11 +375,6 @@ hash = "8a64fdd5384cd26c91475a423f3bec24dd4d98796df7683a5070ef105d421ba4"
 metafile = true
 
 [[files]]
-file = "mods/prickle.pw.toml"
-hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
-metafile = true
-
-[[files]]
 file = "mods/proxyportal.pw.toml"
 hash = "00fc25e554ee9399658ef7633bc6e731508a285774a6188e6772241867b69bfd"
 metafile = true
@@ -482,11 +432,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "272b27d64cd27b909567437683287909b35de9f78db27214efb1d5e4334f9f82"
-metafile = true
-
-[[files]]
-file = "mods/sitting+.pw.toml"
-hash = "6849cbe791205308a6cb7e6d06172dca663446f7c6573ee2ce10f537aef9f16a"
 metafile = true
 
 [[files]]
