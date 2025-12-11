@@ -1,6 +1,6 @@
 name = "Analog"
 filename = "analog-1.2.2+1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OpqpD8K2/versions/GjJv8AUc/analog-1.2.2%2B1.21.jar"
