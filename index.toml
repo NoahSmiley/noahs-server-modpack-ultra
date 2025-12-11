@@ -325,11 +325,6 @@ hash = "1e2b3c4d14e7eb437ce71ceca81b54e345252dcd8d4e6533bf259ea7c7491302"
 metafile = true
 
 [[files]]
-file = "mods/octo-lib.pw.toml"
-hash = "5e527159dd30ddd4c68c2d363b4e973ac60a65a260b41f5d7a8ac2ab94be3e30"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
@@ -387,11 +382,6 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "56b1f7ef28a1bcbcfa2968409cf7334adaef821cafb2d1ca28bad7bb76df6984"
-metafile = true
-
-[[files]]
-file = "mods/ranged-weapon-api.pw.toml"
-hash = "1169c6f5f7cd13d01081f996cda2a029809877aff999e9bf4e6b0d44b027aa58"
 metafile = true
 
 [[files]]
