@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/NoahSmiley/noahs-server-modpack-ultra/master/mods/analog-1.2.2%2B1.21.jar"
 hash-format = "sha512"
-hash = "783b5c7bdc0601790dc95213fdaf183b98ceed66a49f6eed33a7b95b2197a954754589759d2d54f5d6123bfb19eee1551c01e6116924d2cec82da04637cdbfa0"
+hash = "42dcfb2f6084f623c7d546496b0d0c2a8764b6cd79b5e7b92669ad6cf605b19abe57b8e51a56d041d1bea61f553e51ac07d2e765bf183aee3dfaac3eeb87b6df"
