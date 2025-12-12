@@ -1,13 +1,13 @@
 name = "Raised"
-filename = "raised-fabric-1.21.1-5.0.2.jar"
+filename = "raised-forge-1.20.1-5.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/SeSlOPJ2/raised-fabric-1.21.1-5.0.2.jar"
+url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/IzWImbXp/raised-forge-1.20.1-5.1.0.jar"
 hash-format = "sha512"
-hash = "c708288c006afacced9b25948d7252a2ac25b36aabb15eaeeedf18ec922e20c4f609cf71b4e71302cda6e13391d94923d8ad1f2cd7600883bd538e366e932a5d"
+hash = "9f94de74638d75bbd76964d07cb3a801cb71a55d1d7875c7d76a9695a5441b02b4ca32926caa09a4142a1a3d335227b5468396c979c9ee2dccb88d55de9ea93f"
 
 [update]
 [update.modrinth]
 mod-id = "nCQRBEiR"
-version = "SeSlOPJ2"
+version = "IzWImbXp"

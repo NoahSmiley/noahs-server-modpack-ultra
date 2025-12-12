@@ -1,8 +1,0 @@
-name = "Nvidium"
-filename = "nvidium-0.4.1-beta9-1.21-1.21.1.jar"
-side = "client"
-
-[download]
-url = "https://github.com/drouarb/nvidium/releases/download/0.4.1-beta9/nvidium-0.4.1-beta9-1.21-1.21.1.jar"
-hash-format = "sha512"
-hash = "526bed8ff397a2a861f662ab0fab34d5092ec274b5f50f5a94cf5a062ffd2bccc9fcee87d0600545db994ddc8d7e204e8815118561171e863b3afae523c3f8f5"

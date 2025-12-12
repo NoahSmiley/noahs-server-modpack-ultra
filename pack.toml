@@ -1,13 +1,13 @@
 name = "Noahs-Server-Ultra"
 author = "Noah"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5a95462390dc5aa19ddfd81eada0f1df1ac4a6124610e8d1fa86da382863f680"
+hash = "eed6c1678b4331e53adb3a65fae5189e54869a01956838ddc75d78909b8ea761"
 
 [versions]
-fabric = "0.18.1"
-minecraft = "1.21.1"
+forge = "47.3.0"
+minecraft = "1.20.1"
