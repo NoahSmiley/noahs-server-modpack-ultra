@@ -1,8 +1,8 @@
 name = "Analog (Radio Filter)"
-filename = "analog-1.2.6+1.21.jar"
+filename = "analog-1.2.7+1.21.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/NoahSmiley/noahs-server-modpack-ultra/master/mods/analog-1.2.6%2B1.21.jar"
+url = "https://raw.githubusercontent.com/NoahSmiley/noahs-server-modpack-ultra/master/mods/analog-1.2.7%2B1.21.jar"
 hash-format = "sha512"
-hash = "30896a648911dd794135b65e812a91643d3f8555e5a24d24966b1997471d41a8e24f7303cc9be398ecbace3b2c6f91cc13034d5229d65168eeb8433805d65909"
+hash = "37f674c997366417469cf30f568725ad144543e54aaf5b22f39681bd9f12b897b834e79c8d7941ed48cbbc68bbf139dfcb488ba03121da0e8040222532cb22bd"
