@@ -1,0 +1,13 @@
+name = "Physics Mod"
+filename = "physics-mod-3.0.14-mc-1.20.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xy8aRQKS/versions/JkM3OTEl/physics-mod-3.0.14-mc-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "0fa84aa968b75936fc24b170a061925a3ad244ddfc64826e1ae8b02c93fed8da2bfd9a6863d5be6c4ee900a86541822f6db9adb721ca88cfa421a8d11b482aff"
+
+[update]
+[update.modrinth]
+mod-id = "Xy8aRQKS"
+version = "JkM3OTEl"

@@ -1,8 +1,0 @@
-name = "ProxyPortal"
-filename = "ProxyPortal-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://noahsmiley.github.io/noahs-server-modpack-ultra/mods/ProxyPortal-1.0.0.jar"
-hash-format = "sha512"
-hash = "a240ea3c8d89c63c87346e5e0e9d30293d83b46071d0b1e68dc20acce9a268a61ce0c4709441c69d8df7e591a1d90612c706a1048d267388f7557ec325ca60c7"
