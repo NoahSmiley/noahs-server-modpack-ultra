@@ -59,6 +59,16 @@ hash = "2dda36229536c02155b8bdc705598904b74b3e958e56bf7946785f59c3427a9b"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "173344049ef293855758a29773165fc78c52bcc827c44e9c8cb27ea1eb5671e4"
+metafile = true
+
+[[files]]
+file = "mods/chiseled-bookshelf-visualizer.pw.toml"
+hash = "ef2869ddf7715e41f931350493fc614240cf0ac2c477150d3326366531a8f6dc"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8792552849464a56b066435132a3563a81e1ed70afedcc8c9dd1da602cda1d5f"
 metafile = true
@@ -114,6 +124,11 @@ hash = "895602d01d010ba10c9662f61d382393cdc270ba02d7cd8fb0d95f5fc7768972"
 metafile = true
 
 [[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "f1337ef60ce32fe2fdd91491babebd5a2555e138edc8b9418600f05ca42ed1fd"
+metafile = true
+
+[[files]]
 file = "mods/crumbling-hearts.pw.toml"
 hash = "1bffdfa1801c5a011971efb599dc8c61378cf9a45f69d6440224b4d19e2d9b30"
 metafile = true
@@ -126,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "3f8fb0012b658c3ed2dfcde1385aa6255ee46cd18b77975d68665aaf0ee2a94d"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "406d040d773750e451b623602de7a2edbb281ea712a04f80570fbf656d9dedf4"
 metafile = true
 
 [[files]]
@@ -209,6 +229,11 @@ hash = "d82a9b3f9ba777fcfa871322fcc168745c28f9a8ea18032e4ed6f0a3d3d9c32a"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "14b60f4c3f6fcdef8a394debf4e38154f6fc013c44be1a773ce883532d0f9c09"
+metafile = true
+
+[[files]]
 file = "mods/hunger-tweaks.pw.toml"
 hash = "429c4e3794b0c374b40a238586626bbe068fed5d70d1b7a235f8f5988c9c0a1b"
 metafile = true
@@ -249,6 +274,11 @@ hash = "49e1724a64b87c64bdd52002882cc9376057dca5e5e92e72737de3707bbcfe16"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "4645d098c49ef356833963453e1aff45e8d11db80dea93e77637c46e95331412"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "e40ab1a8992d800199a6ac5a1a7411bae8141817f645c82c1fdc8c1381393f9e"
 metafile = true
@@ -266,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "d12b136e07f6f83a1e199aabe430426d19702c9f69e55731092b5d5c2f3fb69f"
+metafile = true
+
+[[files]]
+file = "mods/more-chiseled-bookshelf-variants.pw.toml"
+hash = "9a3710a8432e934298460dc3227f2cca0cd28043ae90d6cecc4b9fc232fa1a51"
 metafile = true
 
 [[files]]
@@ -389,6 +424,11 @@ hash = "44a6662d6ac604b2173a8bc426a10c0d621c8ba99d37d1b72525c140c42cb358"
 metafile = true
 
 [[files]]
+file = "mods/quad.pw.toml"
+hash = "0ec88c4fe4385958659a1dd0b936f44d577673de5bcdca4e8d72c56fd247e36d"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "56b1f7ef28a1bcbcfa2968409cf7334adaef821cafb2d1ca28bad7bb76df6984"
 metafile = true
@@ -481,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "e43fbd46ffa32d316924cbf5ed30d977da2192910474f1e2cd6d3ca4c8722627"
 metafile = true
 
 [[files]]
