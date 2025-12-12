@@ -10,8 +10,12 @@ hash = "97befad2275e44c557794fbd321b154510279ce7906426607288062e096df86d"
 metafile = true
 
 [[files]]
+file = "mods/analog-1.2.2+1.21.jar"
+hash = "fd3c643f15092277bbae3e07309b0dc6af0fef8c61a3ca3b2e9b214f92eb83ac"
+
+[[files]]
 file = "mods/analog.pw.toml"
-hash = "0c40089fef038611db0b4b202100b92c90e84db157b48365eaace52e13e03353"
+hash = "1c3c1efdeb02ebf244ae46e4111e7d2948ea9ebbb04a5e86d876a6a7fc784e76"
 metafile = true
 
 [[files]]
