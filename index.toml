@@ -59,6 +59,16 @@ hash = "2dda36229536c02155b8bdc705598904b74b3e958e56bf7946785f59c3427a9b"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "22cbd3adb7d5dcd5606f4f35a8ed38d3566bb6eae830a1719d139ec302dc6bc0"
+metafile = true
+
+[[files]]
+file = "mods/chiseled-bookshelf-visualizer.pw.toml"
+hash = "0be3c295cd30af26c2aa18d50f43f6080e5dbd264ad2494a2235ebfe99ce60ab"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
 metafile = true
@@ -119,6 +129,11 @@ hash = "1bffdfa1801c5a011971efb599dc8c61378cf9a45f69d6440224b4d19e2d9b30"
 metafile = true
 
 [[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "a7462b768562dd37f40e240591eda90c51beff72d1f9bcc21ba5b283c125acc3"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "23b3bf6d1931acd2aa6daa5409b274b0d4ec9ec659c01d11454093d8fcd1e342"
 metafile = true
@@ -131,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "24d6c27315866a6dd672daef2f844b1b202aa173953824cb3586bed8667f3d5c"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "318e6c5acbdbc75b8b8b014f621c05603f693cb57962f2910648f4af0ecde456"
 metafile = true
 
 [[files]]
@@ -239,6 +259,11 @@ hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "126922c658776c6565d59e3121493ee33c55905a9242ec83ba1e682c95ba4d6e"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
@@ -246,6 +271,11 @@ metafile = true
 [[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "49e1724a64b87c64bdd52002882cc9376057dca5e5e92e72737de3707bbcfe16"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e866d4891c93549e933de5edc5459f33b0895540cd6cf2b7a261b20d0d6b0c36"
 metafile = true
 
 [[files]]
@@ -281,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "c04b43e6c95e18c7310c97e47b3e5bcf65c23180a899a85c97d9fa8f5f773c98"
+metafile = true
+
+[[files]]
+file = "mods/more-chiseled-bookshelf-variants.pw.toml"
+hash = "b2b626924923f5608a5111b5d0bc2bf3bc44cf6cb9321aef42f226a21b336be5"
 metafile = true
 
 [[files]]
@@ -389,6 +424,11 @@ hash = "44a6662d6ac604b2173a8bc426a10c0d621c8ba99d37d1b72525c140c42cb358"
 metafile = true
 
 [[files]]
+file = "mods/quad.pw.toml"
+hash = "0ca6db805941f19ec55df26e337796f9c66be1f5f7aa1153687c7c6cc87c1a2c"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "56b1f7ef28a1bcbcfa2968409cf7334adaef821cafb2d1ca28bad7bb76df6984"
 metafile = true
@@ -476,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "d7655654c6b8fc819f2a01a4b50bb8b133efb1b5da88394b4af5581599a34a5e"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "1f662192ce16e7bef3d0a8c527911e7e44dc9a074ab238174f79a2895617b1e5"
 metafile = true
 
 [[files]]

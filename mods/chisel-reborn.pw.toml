@@ -1,0 +1,8 @@
+name = "Chisel Reborn"
+filename = "chisel-fabric-2.0.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s1mWX7CP/versions/HW8xGjXI/chisel-fabric-2.0.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "354be16db7b0e4c17b585f4610574e411a3db974b15fa83d82c52a72b88008b164ece17a899f0c1ff128c4875747fde548cfa073f82bf36d3ec812e543223e55"

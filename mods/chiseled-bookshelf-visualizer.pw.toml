@@ -1,0 +1,8 @@
+name = "Chiseled Bookshelf Visualizer"
+filename = "ChiseledBookshelfVisualizer-4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SQeCtvGg/versions/yAt0RwnX/ChiseledBookshelfVisualizer-4.0.jar"
+hash-format = "sha512"
+hash = "daf5a4ea20432ce55a4c3bf0ddf9aefb7b3187145f9dd46187d64ffa372b3d01c6a3f112e78faa6e5920ba88b9e24029352f692fed65074cc273c2bd2020b688"
