@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisel-reborn.pw.toml"
-hash = "173344049ef293855758a29773165fc78c52bcc827c44e9c8cb27ea1eb5671e4"
+hash = "f35582598776eb9aafcfcc588d814138d12109e616f62924785b5aa30748a4fa"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "406d040d773750e451b623602de7a2edbb281ea712a04f80570fbf656d9dedf4"
+hash = "5449d5ab832c7071d5c01c9c5893e556f37349988fcfdba43cc40775ef104e8a"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "4645d098c49ef356833963453e1aff45e8d11db80dea93e77637c46e95331412"
+hash = "f92d054eed1e4ce090dcede97b09fef82418517c2988e04dfa7f0667b7bf5f2c"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "e43fbd46ffa32d316924cbf5ed30d977da2192910474f1e2cd6d3ca4c8722627"
+hash = "b02d110035641af1c15d8fc7be4c30506fc8ec4932fb77428045b399793f2925"
 metafile = true
 
 [[files]]
