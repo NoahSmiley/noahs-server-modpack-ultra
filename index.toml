@@ -97,9 +97,6 @@ file = "mods/collective.pw.toml"
 hash = "d47260d085f9c59609bbc7582968e60f4c476d934c815142360bbcc4b5113a4d"
 
 [[files]]
-file = "mods/continents.pw.toml"
-hash = "1d2d4cdfb2ff8f6b9894d63bdced20e1ad3673a753cad8bf5fe0c60d6acd5a27"
-
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
@@ -429,9 +426,6 @@ file = "mods/tectonic.pw.toml"
 hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "465770a7b386222cab4fb8c085bfb93ae9afc322cf357bb6631db75ed26c20e6"
-
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "6160cdcd8b686e90f72e76072ba96de7c5ae40460b3771401222ddebdee1d5ed"
@@ -507,3 +501,7 @@ hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
+
+[[files]]
+file = "mods/dirtyaliasing.pw.toml"
+hash = "6d0a8d2fb6301d16390031232e26837a4e704b5801d42f2e074db677b743250d"

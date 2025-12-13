@@ -1,0 +1,8 @@
+name = "DirtyAliasing"
+filename = "dirtyaliasing-1.0.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha512"
+hash = "8e3026613d69201ca17430a62585d6ab9786809716d8e46ef409e14d8967eb24c1bc94eb74635b28c3058129d23ba6338baf072cfe6765650f0d88f661ad2dcb"
+mode = "file"
