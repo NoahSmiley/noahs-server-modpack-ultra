@@ -276,6 +276,11 @@ hash = "3d5d71177f4b6fe0615e638dbbbbfae2b41cd44c128c65e0a2139eb5e9236165"
 metafile = true
 
 [[files]]
+file = "mods/hold-my-items.pw.toml"
+hash = "fb8fe9f77aec6207043dfd63d3918111f15abefc592b246090d40e29201ea592"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorter-configurable.pw.toml"
 hash = "15737439a8dbfff1c2bd5e89b89e31681faf8d0629edfa9b890021b7cec8367e"
 metafile = true
