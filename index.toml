@@ -126,11 +126,6 @@ hash = "d47260d085f9c59609bbc7582968e60f4c476d934c815142360bbcc4b5113a4d"
 metafile = true
 
 [[files]]
-file = "mods/continents.pw.toml"
-hash = "1d2d4cdfb2ff8f6b9894d63bdced20e1ad3673a753cad8bf5fe0c60d6acd5a27"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
@@ -573,11 +568,6 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "39f24d81cf381ff6a4ac2d58792e66c43a3d566b92bb644eaec86cc97f5b649e"
 metafile = true
 
 [[files]]
