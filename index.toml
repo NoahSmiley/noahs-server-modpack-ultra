@@ -6,6 +6,11 @@ hash = "18b585d0f14984c5548eb9df3d56a5758482615c65db8260ef6038a3c8ee7acc"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "9ac0daaf81714e92a7b4c0467a0d433e9e8f7caada2419ca88d1fc8b353e6533"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "5a53be204efcb61ed865b934d60f0ed29fa74d02ebecb1276f668d6baa57e40b"
 metafile = true
@@ -156,6 +161,11 @@ hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "9183926fe4cc141615f73405b9aa46bfa0fa4463a32652fa8e9781d4a1da5160"
+metafile = true
+
+[[files]]
 file = "mods/cryonicconfig.pw.toml"
 hash = "6dafd9732de5f9c11f6e4293d4c600d2564b5879392aa2d046dad8b01c08c483"
 metafile = true
@@ -251,6 +261,11 @@ hash = "9c94815c028b18cd04c63b604209be515d209dff8f4bc9960867da0b13a0dfe8"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "e47b4547b51bcd116aa7734ccd185a4edbcec4caf7ff80ef195ada4b727f5f15"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
@@ -313,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "66bcfe786e6bbdee6f7ea0805ec3d2561b41285a5c77f1e465e80f4c2fd9200c"
+metafile = true
+
+[[files]]
+file = "mods/lrtactical.pw.toml"
+hash = "4d4cfbc58769e3d96dd21b9cbff194b65c44aeeb64aa15a0970830cb62304fa1"
 metafile = true
 
 [[files]]
@@ -393,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "aed7f8cfd6f50c5a0c3209907e3b615242e77ddcf5652610a81511c752fec3f1"
+metafile = true
+
+[[files]]
+file = "mods/particular.pw.toml"
+hash = "d1535e5d8f6f13308dcf4ba42426342e8c6b011a79d2938a05946e6ab4ea11b3"
 metafile = true
 
 [[files]]
@@ -511,8 +536,18 @@ hash = "af4417bb56dd861fc06eb882d999cc205a2b0222bd14c75a1a58eee3bae0e60b"
 metafile = true
 
 [[files]]
+file = "mods/squake.pw.toml"
+hash = "901032ecebba6d56f2cfd026b487794ec196b396c0444f6b289a21370551c8e2"
+metafile = true
+
+[[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "d752b843672914045093b09d87f4e33f6b990638be3955d1a4da7bc8c97a0c71"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "e0d6a96204863fe32d6468234e5e7e16fe4c5606f40f7425a3e5630fe047eab0"
 metafile = true
 
 [[files]]
@@ -528,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "3848bc11aa2acabef74eb85ca74b8ca8e23733b7fcbc77293165c5c7161e3288"
+metafile = true
+
+[[files]]
+file = "mods/tacz.pw.toml"
+hash = "ccfeffd843b02ed088b6bc58a21de1c3598d90b84e8f5204f39dde581323f5a6"
 metafile = true
 
 [[files]]
