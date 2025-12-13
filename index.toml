@@ -37,10 +37,6 @@ file = "mods/balm.pw.toml"
 hash = "340e6e4d3a131f18cbb53e43cd1588ff1181e6964b8d11932ff185fc1fce1f17"
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "55de0e4189b0dff4e449658f14c6cd73499e0dfcb2d7095ae38445aba99faab7"
-
-[[files]]
 file = "mods/biome_particle_weather.pw.toml"
 hash = "aa6715786b7020b5508a1f39aa49a32645b708b305461a0d97813782cf360a3d"
 
