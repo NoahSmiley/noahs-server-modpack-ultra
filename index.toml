@@ -325,6 +325,10 @@ file = "mods/physicsmod.pw.toml"
 hash = "5a76163e646422ba6e3ff74595a17a5bc21cad00504448d085571986de49078b"
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "760995837d6801b51f1c414ba8a12fef5caf8ca9f1b5780a33291fc7713d501c"
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "c88f2a4c3a30cbe96f6d3109b67059494ff805ade02e646b14c4644f5ad2139b"
 
@@ -433,8 +437,16 @@ file = "mods/tinkers-construct.pw.toml"
 hash = "6160cdcd8b686e90f72e76072ba96de7c5ae40460b3771401222ddebdee1d5ed"
 
 [[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "b740c4d12d7827962f68f90c90f1679f755a678492ef386a1244e8d356c52846"
+
+[[files]]
 file = "mods/travelers-backpack.pw.toml"
 hash = "ad47f307059357c5ba3e4f89c27cb4b4b0a1b26c774627bf10e9f500188ffd41"
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "0b2d5829a3bf03f97d931cddcaf1e6fb9a616f7535c3afd19629388a1ecbc417"
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
