@@ -221,10 +221,6 @@ file = "mods/harvest-with-ease.pw.toml"
 hash = "3d5d71177f4b6fe0615e638dbbbbfae2b41cd44c128c65e0a2139eb5e9236165"
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "e58747cc36ff993dbe2f4c3caf3fbd01b7f24e91141b9e96ecb8608dc2090dc1"
-
-[[files]]
 file = "mods/inventory-sorter-configurable.pw.toml"
 hash = "15737439a8dbfff1c2bd5e89b89e31681faf8d0629edfa9b890021b7cec8367e"
 
