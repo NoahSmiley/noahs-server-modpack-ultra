@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3d-skin-layers.pw.toml"
+hash = "427c4329155375b0c1736dee341d8d78dae91ff6cbb5d8365a5e500f56cdbe72"
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "dbd6cc1d30f9a3052b1ac2e340d8c4e9fe6063deae40ac2ae7f792eb5f192b57"
 
@@ -363,6 +367,10 @@ hash = "817b4a47826bd99c69957fe07131d5704984f89fec96287cdc20c6fbe46100cf"
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+
+[[files]]
+file = "mods/serious-player-animations.pw.toml"
+hash = "98cc7bd8a39d28fb41116403ed755c84faac68e35f772c0399e8347fa9e0f29f"
 
 [[files]]
 file = "mods/shoulder-surfing.pw.toml"
