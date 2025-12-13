@@ -1,0 +1,13 @@
+name = "Squake Updated"
+filename = "squakereforged-1.3.0F.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5B0Ejhu3/versions/B9oEVeCq/squakereforged-1.3.0F.jar"
+hash-format = "sha512"
+hash = "44d65ccbea5b85bce56a6eef1275faa7952375fc1eed976e93d32b209a962d04e9d8e974bf6bd7d53b299c597ce33dbb5c806e231d5e2d52d02ed5988c5c9a15"
+
+[update]
+[update.modrinth]
+mod-id = "5B0Ejhu3"
+version = "B9oEVeCq"
