@@ -471,11 +471,6 @@ hash = "8df897c0f7831e919aa528c3c1e5239f39439c123d99761230ab2357132bad98"
 metafile = true
 
 [[files]]
-file = "mods/radium.pw.toml"
-hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
-metafile = true
-
-[[files]]
 file = "mods/raised.pw.toml"
 hash = "2376fd9539b6b41c10117e81c166b16de416b1df530efee302e693c9de0a5fde"
 metafile = true
