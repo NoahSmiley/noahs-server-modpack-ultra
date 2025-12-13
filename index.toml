@@ -21,6 +21,10 @@ file = "mods/astikorcarts-redux.pw.toml"
 hash = "383c042d784c0fc0b8546d3a7d101c09969c552863c17d4121dd760238876817"
 
 [[files]]
+file = "mods/athena.pw.toml"
+hash = "3ebd540b0d3312de9e671a16abadee3daaf4c1ab4e5ec5f9640811d52716d238"
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "7a266a082b54627e5f95aa154871114fded8c0a06af104e49cf08668b869cfad"
 
@@ -203,6 +207,10 @@ hash = "f8e302099c26a9ee613027cd1cd7f0482d2f1e81ea79378a3e4296474aed1407"
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
+
+[[files]]
+file = "mods/gml.pw.toml"
+hash = "1e1e3025fcb35c1cd72736b6550e0e9bdf603ebf6aa0bc5e0a5ae039c016e091"
 
 [[files]]
 file = "mods/guideme.pw.toml"
