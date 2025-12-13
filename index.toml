@@ -26,6 +26,11 @@ hash = "c3daae892d91d5b36c65fbd18f19d22a61fcac210f25350cde0a413c6a49210f"
 metafile = true
 
 [[files]]
+file = "mods/athena.pw.toml"
+hash = "49ef0b29b650084f38aac8faf1537b966f1c976029b1df48bb72a614c35a9641"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "7a266a082b54627e5f95aa154871114fded8c0a06af104e49cf08668b869cfad"
 metafile = true
@@ -253,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
+metafile = true
+
+[[files]]
+file = "mods/gml.pw.toml"
+hash = "e3e2dcaf45321da0664bac70e625520b19c3bcb61033b716fc5584121fe8abf1"
 metafile = true
 
 [[files]]
