@@ -1,0 +1,13 @@
+name = "MinecraftCapes"
+filename = "MinecraftCapes Forge 1.20.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9gNVPfzw/versions/DZChUNUx/MinecraftCapes%20Forge%201.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "f54585286e56667de25fb0850a98ce4851b2544bdea040a04ff497d59fb2d0e370c0d2beec159a5568d0c55def796cb1e2c99f559ac34feda1c3f1d7013f9aaf"
+
+[update]
+[update.modrinth]
+mod-id = "9gNVPfzw"
+version = "DZChUNUx"

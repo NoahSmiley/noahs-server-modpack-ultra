@@ -1,0 +1,13 @@
+name = "Memory Leak Fix"
+filename = "memoryleakfix-forge-1.17+-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/O5eLXvxa/memoryleakfix-forge-1.17%2B-1.1.3.jar"
+hash-format = "sha512"
+hash = "8d2df62813413adb35aed96991bcd30ecb5af130835c03aec9db3aa8c0a80c699b248552901d2902bd361197e68b68f23001b6972ff3af3589fc93a9d0ce9feb"
+
+[update]
+[update.modrinth]
+mod-id = "NRjRiSSD"
+version = "O5eLXvxa"
