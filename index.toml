@@ -346,6 +346,11 @@ hash = "adb67ada5c165ea4a43f4c3e53ffd61c90e21292596b5609d97e938f6e8e7b16"
 metafile = true
 
 [[files]]
+file = "mods/medieval-weapon-sounds.pw.toml"
+hash = "f6696bd319589f2bb384ba8d7ee81ad96369c88f5828eb523d84d51c27117760"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
 metafile = true
