@@ -266,11 +266,6 @@ hash = "9c94815c028b18cd04c63b604209be515d209dff8f4bc9960867da0b13a0dfe8"
 metafile = true
 
 [[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "e47b4547b51bcd116aa7734ccd185a4edbcec4caf7ff80ef195ada4b727f5f15"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
@@ -548,11 +543,6 @@ metafile = true
 [[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "d752b843672914045093b09d87f4e33f6b990638be3955d1a4da7bc8c97a0c71"
-metafile = true
-
-[[files]]
-file = "mods/subtle-effects.pw.toml"
-hash = "e0d6a96204863fe32d6468234e5e7e16fe4c5606f40f7425a3e5630fe047eab0"
 metafile = true
 
 [[files]]
