@@ -46,11 +46,6 @@ hash = "1b31cb793a692d9f692b233eab37e6fed156f7b05c4a2080a75ea6c06c38c178"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "52b4f29eb4a4392ef085617292842dc9fc84d86c318da5ce470b24eab77f6bdc"
-metafile = true
-
-[[files]]
 file = "mods/biome_particle_weather.pw.toml"
 hash = "aa6715786b7020b5508a1f39aa49a32645b708b305461a0d97813782cf360a3d"
 metafile = true
