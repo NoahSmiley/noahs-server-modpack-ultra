@@ -1,0 +1,13 @@
+name = "Medieval Weapon Sounds"
+filename = "medival_weapon_sounds-1.1.0-forge-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jaiqEG3N/versions/8BeMcPKK/medival_weapon_sounds-1.1.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "d834d159ba103ed84084cb004b89937ee95d27a7b1e0271d21e9e80a42b1789ade3317e65c5e3c479e59e3f880d5bc791b1cf9fb926ec24399a2851d4cce2ff3"
+
+[update]
+[update.modrinth]
+mod-id = "jaiqEG3N"
+version = "8BeMcPKK"
