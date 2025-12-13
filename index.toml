@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3d-skin-layers.pw.toml"
+hash = "18b585d0f14984c5548eb9df3d56a5758482615c65db8260ef6038a3c8ee7acc"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "5a53be204efcb61ed865b934d60f0ed29fa74d02ebecb1276f668d6baa57e40b"
 metafile = true
@@ -453,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+metafile = true
+
+[[files]]
+file = "mods/serious-player-animations.pw.toml"
+hash = "35ef44b93bab877dcc6eae5b83dae3cc83e7a08f5e4a5492df54aa8a2326c8eb"
 metafile = true
 
 [[files]]
