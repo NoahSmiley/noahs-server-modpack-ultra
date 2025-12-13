@@ -97,7 +97,6 @@ file = "mods/collective.pw.toml"
 hash = "d47260d085f9c59609bbc7582968e60f4c476d934c815142360bbcc4b5113a4d"
 
 [[files]]
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 
@@ -425,7 +424,6 @@ hash = "59f6c7478377ae1e766f19767f644b37f925d6ec5bdc97a20615035c1424ce04"
 file = "mods/tectonic.pw.toml"
 hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
 
-[[files]]
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "6160cdcd8b686e90f72e76072ba96de7c5ae40460b3771401222ddebdee1d5ed"
