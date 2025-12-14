@@ -53,10 +53,6 @@ file = "mods/cameraoverhaul.pw.toml"
 hash = "a23cdef520412ed5bfebcfa6d6bc04d90f00a6836318d74d79ca4ffc940be9be"
 
 [[files]]
-file = "mods/canary.pw.toml"
-hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 
@@ -347,6 +343,10 @@ hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "9fcbfd3f81690b6990478d1029bec6a23a4ba0f3e6440f5620d17e6ac2554738"
+
+[[files]]
+file = "mods/radium.pw.toml"
+hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 
 [[files]]
 file = "mods/raised.pw.toml"
