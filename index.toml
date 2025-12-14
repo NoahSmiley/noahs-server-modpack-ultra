@@ -460,11 +460,6 @@ hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
 metafile = true
 
 [[files]]
-file = "mods/proxy-compatible-forge.pw.toml"
-hash = "e6a43dc4800ba45f2971d3caf39d32f86bf747b5a86f3857036c75854e7f0c22"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
 metafile = true
