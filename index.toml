@@ -663,3 +663,11 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
 metafile = true
+
+[[files]]
+file = "tacz/CS2 Knifes Pack v1.0.1.zip"
+hash = "5cab4af53cb80fb016ef14fbb1bc27cd21d3b2d234415301cf4a9a4238a10c10"
+
+[[files]]
+file = "tacz/CS2_Ultra_Knives_v1.0.zip"
+hash = "1222c29aed94f10f39afc3f620ecbf4cc39771db84cf3dfc28b8930dad83ef63"
