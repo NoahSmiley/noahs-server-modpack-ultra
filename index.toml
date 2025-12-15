@@ -322,6 +322,10 @@ hash = "31bec9d75cc9e7e00e3b564c7ad5ff161840a7f5d2a6e39e6ba4672b15ed2040"
 metafile = true
 
 [[files]]
+file = "mods/dirtyaliasing-1.0.0.jar"
+hash = "fb5cbee71262efd2c2c1d224dc99010b6b795ed07c0a35a6579cfb21957166d7"
+
+[[files]]
 file = "mods/displaydelight-1.4.0.jar"
 hash = "79abf2ab4cf74245ebc2ad213859c0da3702feb1990444deab076eeca5070b05"
 
