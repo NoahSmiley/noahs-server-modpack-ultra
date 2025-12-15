@@ -322,11 +322,6 @@ hash = "31bec9d75cc9e7e00e3b564c7ad5ff161840a7f5d2a6e39e6ba4672b15ed2040"
 metafile = true
 
 [[files]]
-file = "mods/dirtyaliasing.pw.toml"
-hash = "82b5b7a5f1810843bbaf16ea49cf6ff47a7a84f6f637c57248be42e9ef43a16e"
-metafile = true
-
-[[files]]
 file = "mods/displaydelight-1.4.0.jar"
 hash = "79abf2ab4cf74245ebc2ad213859c0da3702feb1990444deab076eeca5070b05"
 
