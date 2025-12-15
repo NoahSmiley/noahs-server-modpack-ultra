@@ -318,10 +318,6 @@ hash = "31bec9d75cc9e7e00e3b564c7ad5ff161840a7f5d2a6e39e6ba4672b15ed2040"
 metafile = true
 
 [[files]]
-file = "mods/dirtyaliasing-1.0.0.jar"
-hash = "fb5cbee71262efd2c2c1d224dc99010b6b795ed07c0a35a6579cfb21957166d7"
-
-[[files]]
 file = "mods/dirtyaliasing.pw.toml"
 hash = "82b5b7a5f1810843bbaf16ea49cf6ff47a7a84f6f637c57248be42e9ef43a16e"
 metafile = true
@@ -362,10 +358,6 @@ metafile = true
 file = "mods/elytra-slot.pw.toml"
 hash = "b819114773db1e86fa897907d79abf9925f05a6ae3fd10f7a02cca41f3e9a0d2"
 metafile = true
-
-[[files]]
-file = "mods/embeddium-0.3.31-mc1.20.1.jar"
-hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
 
 [[files]]
 file = "mods/embeddium.pw.toml"
@@ -740,10 +732,6 @@ metafile = true
 [[files]]
 file = "mods/rrls-4.0.6.1+mc1.20.1-forge.jar"
 hash = "2269a36dee5124e89fa5ee7c64b2c3f6dee078b9ab193dc5279f953d82bad1f9"
-
-[[files]]
-file = "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar"
-hash = "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da"
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
