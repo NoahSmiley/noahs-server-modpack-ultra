@@ -51,11 +51,6 @@ hash = "340e6e4d3a131f18cbb53e43cd1588ff1181e6964b8d11932ff185fc1fce1f17"
 metafile = true
 
 [[files]]
-file = "mods/biome_particle_weather.pw.toml"
-hash = "aa6715786b7020b5508a1f39aa49a32645b708b305461a0d97813782cf360a3d"
-metafile = true
-
-[[files]]
 file = "mods/botania.pw.toml"
 hash = "268d5afebfe58229a1f2a2eab177bd5453cc87655d5bc5b325b0235a1ee241dd"
 metafile = true
@@ -247,11 +242,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
-metafile = true
-
-[[files]]
-file = "mods/ferritecore.pw.toml"
-hash = "3b026ffc2963974cc8252d83e91587b5ac357ab2b59eb1e77e74e82eb3d635d6"
 metafile = true
 
 [[files]]
