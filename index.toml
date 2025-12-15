@@ -66,6 +66,10 @@ file = "mods/ItemPhysic_FORGE_v1.8.9_mc1.20.1.jar"
 hash = "54a13e71c8cc5471fb32bc58d8a4732936c3eedbf7acf446deab5e38ebe69e5f"
 
 [[files]]
+file = "mods/KryptonReforged-0.2.3.jar"
+hash = "9b281428d0e7560b7b6e74cdc808c0ffd7a8e662ba84d1a12a6616b49cedec10"
+
+[[files]]
 file = "mods/MoreBookshelfVariants-1.0.4+1.20.4-Forge.jar"
 hash = "73dbd94dd9d50824b9c75853b01be80f1732efd0ab918d0415a518b56cfdc317"
 
@@ -242,6 +246,10 @@ hash = "0670fc894bca325d439e39300a18146a380ebffc743d16c9e95d84307d1ede0d"
 [[files]]
 file = "mods/colorize-1.20.4-forge-1.9.0.jar"
 hash = "476f705413789f3c26523a931fa1dee3a6cd8604ccc5897028d6243daa3c03fc"
+
+[[files]]
+file = "mods/connectivity-1.20.1-7.2.jar"
+hash = "4b7278a0c5f9a13371ad08d235a91bc94c0783ec62f0be0103ba91a01106188a"
 
 [[files]]
 file = "mods/controlling.pw.toml"
@@ -734,6 +742,10 @@ file = "mods/rrls-4.0.6.1+mc1.20.1-forge.jar"
 hash = "2269a36dee5124e89fa5ee7c64b2c3f6dee078b9ab193dc5279f953d82bad1f9"
 
 [[files]]
+file = "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar"
+hash = "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da"
+
+[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "817b4a47826bd99c69957fe07131d5704984f89fec96287cdc20c6fbe46100cf"
 metafile = true
@@ -782,6 +794,10 @@ hash = "bafdcbeda044603b59eb16059829a6698c1a58d1ce865b8658e598f2718d315a"
 [[files]]
 file = "mods/smarterfarmers-1.20-2.1.2.jar"
 hash = "9ee74cd1cd339529bbc15b1c2eef1a89094fa76678e04939f45477bf15d6e58a"
+
+[[files]]
+file = "mods/smoothchunk-1.20.1-4.1.jar"
+hash = "0ee48f7bf78070a7cb5858492faa6fe7d58443acbd97a92547bd664ee710e5c1"
 
 [[files]]
 file = "mods/smoothswapping-0.9.3.2-1.20.1-forge.jar"
