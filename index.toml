@@ -248,10 +248,6 @@ file = "mods/colorize-1.20.4-forge-1.9.0.jar"
 hash = "476f705413789f3c26523a931fa1dee3a6cd8604ccc5897028d6243daa3c03fc"
 
 [[files]]
-file = "mods/connectivity-1.20.1-7.2.jar"
-hash = "4b7278a0c5f9a13371ad08d235a91bc94c0783ec62f0be0103ba91a01106188a"
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
@@ -404,10 +400,6 @@ hash = "9f2ffb0d4c65fcb2a96878287a7119459b9d0637c395e5097d691416690d6563"
 metafile = true
 
 [[files]]
-file = "mods/fastasyncworldsave-1.20.1-1.4.jar"
-hash = "db5df677cbe2d651d434ee9c0909c6bf8cf571f804b6c71f2763821cf7efb03f"
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
@@ -500,10 +492,6 @@ metafile = true
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
-
-[[files]]
-file = "mods/letmedespawn-1.20.x-forge-1.5.0.jar"
-hash = "c6be3d9a62234d96d302369ac0a0ee238bdc0cf1b7f7280532d4365e9fabc09e"
 
 [[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
@@ -782,10 +770,6 @@ hash = "bafdcbeda044603b59eb16059829a6698c1a58d1ce865b8658e598f2718d315a"
 [[files]]
 file = "mods/smarterfarmers-1.20-2.1.2.jar"
 hash = "9ee74cd1cd339529bbc15b1c2eef1a89094fa76678e04939f45477bf15d6e58a"
-
-[[files]]
-file = "mods/smoothchunk-1.20.1-4.1.jar"
-hash = "0ee48f7bf78070a7cb5858492faa6fe7d58443acbd97a92547bd664ee710e5c1"
 
 [[files]]
 file = "mods/smoothswapping-0.9.3.2-1.20.1-forge.jar"
