@@ -398,10 +398,6 @@ hash = "8a2ebaa5e91514420178322fd4c3c200d095618269073a0d44a17f0287747adc"
 metafile = true
 
 [[files]]
-file = "mods/fowlplay-1.1.1+1.20.1-forge.jar"
-hash = "3c06b29d5d2db27aaffcc20b4c6d88001daebde5be18d64d90a6ebb06e64580e"
-
-[[files]]
 file = "mods/fruitsdelight-1.1.1.jar"
 hash = "661ad7e6c2cee95b9f704f323100f9a59b533b149d1d114c51025b08375c381d"
 
