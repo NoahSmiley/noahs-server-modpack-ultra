@@ -129,11 +129,6 @@ hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "74bbdad7434bc02ec767c15c0136269f885331601f73fa2365252c24e58c09bd"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
@@ -444,11 +439,6 @@ hash = "e3e2dcaf45321da0664bac70e625520b19c3bcb61033b716fc5584121fe8abf1"
 metafile = true
 
 [[files]]
-file = "mods/guideme.pw.toml"
-hash = "c52fd46a68f495149305e4cad4a6c3961d5875448b69aeff8115845899aec7fd"
-metafile = true
-
-[[files]]
 file = "mods/harvest-with-ease-forge-1.20.1-9.4.0.jar"
 hash = "5391fde6854427d674ebce2ab572045c07e38f82e28702367198626624b8527b"
 
@@ -556,11 +546,6 @@ hash = "7674d829d5a38d91ca68061e087fded92e976e3e461edcf75117e37a257e8f10"
 [[files]]
 file = "mods/medieval-weapon-sounds.pw.toml"
 hash = "f6696bd319589f2bb384ba8d7ee81ad96369c88f5828eb523d84d51c27117760"
-metafile = true
-
-[[files]]
-file = "mods/mekanism.pw.toml"
-hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
 metafile = true
 
 [[files]]
