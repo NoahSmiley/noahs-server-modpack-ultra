@@ -879,11 +879,6 @@ file = "mods/vintagedelight-0.1.6.jar"
 hash = "f3645fcf42546edb5fe09bee833f2e7524dd93b9b5380ecae3d3aa2847a4c9db"
 
 [[files]]
-file = "mods/visual-workbench.pw.toml"
-hash = "873f24b47799ee61989b4d381e4cfab62c2735d2e3b6c940d18747f8ef1645ca"
-metafile = true
-
-[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "c88c91d6d3935671226bfbaf09090b6663cb6797f22fd4b5f0c9941362b0b226"
 metafile = true
