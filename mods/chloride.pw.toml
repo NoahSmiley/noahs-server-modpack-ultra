@@ -1,0 +1,13 @@
+name = "Chloride"
+filename = "chloride-FORGE-mc1.20.1-v1.7.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yD9qW65f/versions/A7OldCaG/chloride-FORGE-mc1.20.1-v1.7.4.jar"
+hash-format = "sha512"
+hash = "16db87a7a9200d0471f614b00a616532dfab906b26df6a775c612d66235b04f9a39df96cfe7e1b8e397085e6fc656e90665a54b44e846203e024759e6c073a8a"
+
+[update]
+[update.modrinth]
+mod-id = "yD9qW65f"
+version = "A7OldCaG"
