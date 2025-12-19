@@ -421,11 +421,6 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "bf00100011e6c05faa58b7be2e06fa4914cb99b1fea08cf6ad57047f426f8087"
-metafile = true
-
-[[files]]
 file = "mods/fog.pw.toml"
 hash = "8a2ebaa5e91514420178322fd4c3c200d095618269073a0d44a17f0287747adc"
 metafile = true
