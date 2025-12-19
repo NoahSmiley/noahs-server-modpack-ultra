@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/holdmyitems-client.toml"
-hash = "3eab1f62cf5dffc1d5d22e69dbfbe523c819cb43b29ecaf427c71f4c727134d7"
-
-[[files]]
 file = "mods/3d-skin-layers.pw.toml"
 hash = "18b585d0f14984c5548eb9df3d56a5758482615c65db8260ef6038a3c8ee7acc"
 metafile = true
