@@ -206,6 +206,11 @@ hash = "2ec895f34f33ad639dc6e9781c5450e7eeff746ea932d0309c6786f7ccda70e0"
 metafile = true
 
 [[files]]
+file = "mods/chloride.pw.toml"
+hash = "02cf2b30081eda8465ba796fcadcd52ed10eb23f3c9fa7d06a3033f8940f176e"
+metafile = true
+
+[[files]]
 file = "mods/chunkloaders-1.2.9-forge-mc1.20.1.jar"
 hash = "c2dcafcf63a4141f97e512a2b1c352de918a3e0b915e20d0c1496513235331ce"
 
@@ -406,8 +411,18 @@ file = "mods/fastasyncworldsave-1.20.1-1.4.jar"
 hash = "db5df677cbe2d651d434ee9c0909c6bf8cf571f804b6c71f2763821cf7efb03f"
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "72977084c8b97b170be9543d7d98ff55c4e7a530d4fccfaf8d80a61bde1fbaf8"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "bf00100011e6c05faa58b7be2e06fa4914cb99b1fea08cf6ad57047f426f8087"
 metafile = true
 
 [[files]]
@@ -448,11 +463,6 @@ hash = "3d5d71177f4b6fe0615e638dbbbbfae2b41cd44c128c65e0a2139eb5e9236165"
 metafile = true
 
 [[files]]
-file = "mods/hold-my-items.pw.toml"
-hash = "fb8fe9f77aec6207043dfd63d3918111f15abefc592b246090d40e29201ea592"
-metafile = true
-
-[[files]]
 file = "mods/immersive_paintings-0.6.8+1.20.1-forge.jar"
 hash = "3979cadefd63846f4929db5d6557c873bf29900da10d2b85703e6e3678bd8ad9"
 
@@ -463,11 +473,6 @@ hash = "bad27415238ef94bd78be0d4a2e6de48a86046060a6dc9c6d759b4bc6c73cfa7"
 [[files]]
 file = "mods/inventory-sorter-configurable.pw.toml"
 hash = "15737439a8dbfff1c2bd5e89b89e31681faf8d0629edfa9b890021b7cec8367e"
-metafile = true
-
-[[files]]
-file = "mods/invmove.pw.toml"
-hash = "63e85a58d176a1efff3ca84d9ad90d3e10d5adc86d9b90b13915b25c0bc180b8"
 metafile = true
 
 [[files]]
@@ -780,6 +785,11 @@ file = "mods/smoothswapping-0.9.3.2-1.20.1-forge.jar"
 hash = "c6d75a2acd9b269524da4de35a1681535069f885e7a910b013962db3f7842709"
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "82bb7cd6c8b68bb1831bb7c374bd316b6403cd01195d582f19c31076c908953a"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "dbc27d52da4f0cb8d58bd3b7a7a8608e3170feb9b5c128816a3731c2a2d2f8b3"
 metafile = true
@@ -860,6 +870,11 @@ metafile = true
 [[files]]
 file = "mods/trailandtales_delight-1.3-all.jar"
 hash = "9a6c09da21e866983230423ceb07fd9a6193aca1a51a14451f3f833eb0ad9c34"
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "65d0f446192974c57dc967909e5978946489555a831cee3e100796fc20c6ab63"
+metafile = true
 
 [[files]]
 file = "mods/travelers-backpack.pw.toml"
