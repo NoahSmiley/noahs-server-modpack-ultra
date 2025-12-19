@@ -1066,10 +1066,6 @@ metafile = true
 
 
 [[files]]
-file = "config/holdmyitems-client.toml"
-hash = "ff46736750ebc20004d295ae2902cf650c30f9d622b46f43c7fd54b6304d8aa4"
-
-[[files]]
 file = "tacz/CS2 Knifes Pack v1.0.1.zip"
 hash = "5cab4af53cb80fb016ef14fbb1bc27cd21d3b2d234415301cf4a9a4238a10c10"
 
