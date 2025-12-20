@@ -11,6 +11,11 @@ metafile = true
 
 
 [[files]]
+file = "mods/big-contraptions.pw.toml"
+hash = "5f045e40db21b10950737b68f0beed00054cadd538814dbf93817c9dc2e501a9"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "c8a69e2d9ae91e08d5b9876ce7b3163820d9a98c153d2f90ff187442b9d270dd"
 metafile = true
