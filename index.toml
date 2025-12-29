@@ -626,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/nightlights-1.0.0.jar"
-hash = "516622ef7d7cc77f818bc4740e9969040aab16c9aeabaa045bb2c55a06fca579"
+hash = "01c080f4a02484f0710ad01211d4b00db85580b245f3fde66e58d6cdad182a4e"
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
