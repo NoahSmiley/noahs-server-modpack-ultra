@@ -129,6 +129,11 @@ hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "0f4c2198603cd84a14dc6741729d0b0dcf509574776e620c36c3e7180082db32"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
@@ -456,6 +461,11 @@ hash = "01e07848b9f741c713bc5b96469a4fbacf950c1285a65de2b153c32474dbdd1f"
 [[files]]
 file = "mods/gml.pw.toml"
 hash = "e3e2dcaf45321da0664bac70e625520b19c3bcb61033b716fc5584121fe8abf1"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "5cc92eb0e58c2afbfd625d727d80da1d1c84500ec962bb22f5be28b864f18551"
 metafile = true
 
 [[files]]
