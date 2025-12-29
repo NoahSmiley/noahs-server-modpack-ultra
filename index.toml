@@ -625,6 +625,10 @@ hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
 
 [[files]]
+file = "mods/nightlights-1.0.0.jar"
+hash = "e1d2790c9465589afa5bc13df66386a7cdd8e84c1af6fcbf15be116ac792bc87"
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "4c96dddf8b3d5bf5ea331459b13d23d7d37332dea2275c00ef755420a66676c4"
 metafile = true
